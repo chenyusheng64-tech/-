@@ -75,8 +75,7 @@
 ### 方法一：執行 Python 原始碼
 
 系統需求：
-Python 3.10 以上版本
-Pygame
+Python 3.10 以上版本、Pygame
 
 安裝 Pygame：
 pip install pygame
