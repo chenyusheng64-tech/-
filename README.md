@@ -94,17 +94,13 @@
 ### 方法一：執行 Python 原始碼
 
 系統需求：
-
 Python 3.10 以上版本
-
 Pygame
 
 安裝 Pygame：
-
 pip install pygame
 
 執行遊戲：
-
 python main.py
 
 ### 方法二：執行應用程式
@@ -112,9 +108,7 @@ python main.py
 專案已使用 Auto-Py-To-Exe 打包為 Windows 執行檔。
 
 直接執行：
-
 糖粒之願.exe
-
 即可開始遊戲。
 
 ## 目前完成狀態
