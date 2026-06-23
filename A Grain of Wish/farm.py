@@ -59,7 +59,7 @@ class FarmSystem:
     def __init__(self):
         self.plants = []         # 儲存所有作物
         self.animals = []        # 飼養中的動物
-        self.ready_products = [] # 可賣的產品
+        self.ready_products = [] # 可收成的產品
 
         # 初始化一隻會生蛋的雞，並記錄創建時間
         self.animals.append({
